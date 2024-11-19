@@ -1,0 +1,119 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio specific
+.idea/
+.gradle/
+local.properties
+/.cxx/
+captures/
+.externalNativeBuild/
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+build/
+app/build/
+
+# Gradle specific
+.gradle/
+build/
+gradlew
+gradlew.bat
+gradle-wrapper.jar
+gradle-wrapper.properties
+gradle.properties
+settings.gradle
+settings.gradle.kts
+
+# IntelliJ specific
+out/
+*.iml
+
+# Log files
+*.log
+
+# Miscellaneous
+*.lock
+*.log
+*.temp
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+*.class
+
+# Keystore files
+*.keystore
+*.jks
+
+# File containing sensitive data
+**/secrets.properties
+
+# Android specific
+*.hprof
+**/generated/*
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/misc.xml
+.idea/assetWizardSettings.xml
+.idea/codeStyles/
+
+# Local configuration file (sdk paths, etc.)
+.idea/gradle.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/*.iml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/dictionaries/
+.idea/httpRequests/
+
+# Mobile-specific
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Rust
+*.rs.bk
+
+# NDK
+.obj/
+.intermediates/
+
+# Flutter (if applicable)
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+flutter_export_environment.sh
